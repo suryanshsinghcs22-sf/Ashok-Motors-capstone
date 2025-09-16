@@ -12,7 +12,7 @@
 🔹Opportunity & Sales Tracking: Lead → Opportunity → Sale → Invoice.
 🔹Service Appointment Management: Vehicle servicing's schedule aur SLA track .
 🔹Warranty Claim Tracking: Vehicle warranty claim and approval/rejection.
-🔹Dashboards & Reports: Sales conversion for Manager, service performance reports.
+🔹Dashboards & Reports: Sales conversion for Manager , service performance reports.
 🔹Basic Automation: Lead assignment, service reminders, discount approval process.
 
 
