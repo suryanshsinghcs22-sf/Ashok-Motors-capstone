@@ -1,18 +1,49 @@
-# Salesforce DX Project: Next Steps
+# WhatNext Vision Motors — Dealership & After-Sales CRM
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+## ⭐Problem statement-
 
-## How Do You Plan to Deploy Your Changes?
+🔹WhatNext Vision Motors needs a CRM to manage leads, test-drives, vehicle sales, service bookings and warranty claims. Goals: increase lead→sale conversion, reduce service turnaround time, and provide dashboards + simple AI suggestions for customers.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
-## Configure Your Salesforce DX Project
+## ⭐Requirement Gathering-
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+🔹Lead Management: Customer enquiry → Lead capture → Assign to dealer.
+🔹Test-Drive Scheduling: Online/offline test-drive booking.
+🔹Opportunity & Sales Tracking: Lead → Opportunity → Sale → Invoice.
+🔹Service Appointment Management: Vehicle servicing's schedule aur SLA track .
+🔹Warranty Claim Tracking: Vehicle warranty claim and approval/rejection.
+🔹Dashboards & Reports: Sales conversion for Manager, service performance reports.
+🔹Basic Automation: Lead assignment, service reminders, discount approval process.
 
-## Read All About It
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## ⭐Stakeholders list-
+
+🔹Dealer Manager (needs sales dashboard)
+🔹Sales Rep (needs leads & test-drive schedule)
+🔹Service Agent (needs appointments & SLA)
+🔹Customer (books test-drive & service)
+🔹Admin (manages users & data)
+
+
+## ⭐Business process mapping-
+
+🔹Customer inquiry → Lead created → Assign to Dealer → Test-drive scheduled → Convert to Opportunity → Close → Create Invoice → After sale service booking → Warranty claim workflow.
+
+
+## ⭐Industry-Specific Use Case Analysis-
+
+🔹Lead Management (automobile inquiry handling)
+🔹Test Drive scheduling & tracking
+🔹Vehicle Sales (discount approval + invoice)
+🔹After-Sales Service (appointment + SLA)
+🔹Warranty Claims workflow
+🔹Dealer Performance dashboard
+
+
+## ⭐AppExchange Exploration-
+
+🔹Salesforce Scheduler → Test Drive & Service appointment scheduling
+🔹Field Service Lite → Field assignment for Service Agents
+🔹DocumentSign → Vehicle sales contracts me e-signature
+🔹Salesforce Surveys → Customer feedback collection
+🔹Einstein Next Best Action → AI-based recommendations
