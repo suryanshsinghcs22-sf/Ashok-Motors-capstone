@@ -2,7 +2,7 @@
 
 ## ⭐Problem statement-
 
-🔹WhatNext Vision Motors needs a CRM to manage leads, test-drives, vehicle sales, service bookings and warranty claims. Goals: increase lead→sale conversion, reduce service turnaround time, and provide dashboards + simple AI suggestions for customers.
+🔹Ashok Motors needs a CRM to manage leads, test-drives, vehicle sales, service bookings and warranty claims. Goals: increase lead→sale conversion, reduce service turnaround time, and provide dashboards + simple AI suggestions for customers.
 
 
 ## ⭐Requirement Gathering-
