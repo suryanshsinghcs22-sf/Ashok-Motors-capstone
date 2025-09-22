@@ -1,0 +1,22 @@
+<template>
+    <lightning-card title="Available Test Drive Slots">
+        <template if:true={slots}>
+            <ul>
+                <template for:each={slots} for:item="slot">
+                    <li key={slot.Id}>
+                        {slot.Vehicle__c} - {slot.Scheduled_DateTime__c}
+                        <lightning-button 
+                            label="Book" 
+                            onclick={bookSlot} 
+                            data-id={slot.Id}>
+                        </lightning-button>
+                    </li>
+                </template>
+            </ul>
+        </template>
+        <template if:false={slots}>
+            <p>No available slots</p>
+        </template>
+    </lightning-card>
+</template>
+
