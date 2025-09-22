@@ -1,0 +1,5 @@
+"FirstName,LastName,Email,Phone,Dealer_c__c"
+"John,Doe,john@example.com,9876543210,Central Dealer"
+"Alice,Smith,alice@example.com,9876543211,East Dealer"
+"Bob,Sharma,bob@example.com,9876543212,West Dealer"
+""

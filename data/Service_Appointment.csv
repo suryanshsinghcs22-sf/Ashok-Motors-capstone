@@ -1,0 +1,4 @@
+"Contact,Vehicle__c,Scheduled_DateTime__c,Status__c,Dealer_c__c"
+"John Doe,VIN001,2025-09-25T10:00:00Z,Scheduled,Central Dealer"
+"Alice Smith,VIN002,2025-09-25T11:00:00Z,Scheduled,East Dealer"
+""
